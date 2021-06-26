@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>285383294735-m6m88rmvp2dl20v8jb95t7otk2d8n0e9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.285383294735-m6m88rmvp2dl20v8jb95t7otk2d8n0e9</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>285383294735-vcb2iurasiphfqfpsb1mcarhm8o1ul72.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB4OWIW-Xehxp5a-fzwK4F83_g6BgEFMGA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>285383294735</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.flutterflow.vacationmanagement</string>
+	<key>PROJECT_ID</key>
+	<string>holydaymanagement</string>
+	<key>STORAGE_BUCKET</key>
+	<string>holydaymanagement.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:285383294735:ios:eea02ead8ceee2a180887a</string>
+	<key>DATABASE_URL</key>
+	<string>https://holydaymanagement-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "285383294735",
+    "firebase_url": "https://holydaymanagement-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "holydaymanagement",
+    "storage_bucket": "holydaymanagement.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285383294735:android:cb8b4e4f6b4fdaab80887a",
+        "android_client_info": {
+          "package_name": "com.flutterflow.vacationmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285383294735-vcb2iurasiphfqfpsb1mcarhm8o1ul72.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.vacationmanagement",
+            "certificate_hash": "df4caf490d15bc9e9bee214da4c076dcaf10052a"
+          }
+        },
+        {
+          "client_id": "285383294735-633762hvp8r4s9jhn31065lj1vaabpsv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADlcgJoYxJMuIxJuZEO6KWiDbX7s53SFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285383294735-633762hvp8r4s9jhn31065lj1vaabpsv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "285383294735-m6m88rmvp2dl20v8jb95t7otk2d8n0e9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.vacationmanagement"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
